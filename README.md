@@ -45,5 +45,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisguiv&show_icons=true&title_color=fff&icon_color=1dcc5c&text_color=9f9f9f&bg_color=161b22&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisguiv&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisguiv&layout=compact&langs_count=8&card_width=320&show_icons=true&title_color=fff&icon_color=1dcc5c&text_color=9f9f9f&bg_color=161b22" />
 </a>
