@@ -27,6 +27,13 @@
 
 ---
 
+<a href="https://spotify-readme-luisguivs-projects.vercel.app/link">
+  <img
+    src="https://spotify-readme-luisguivs-projects.vercel.app"
+    alt="Current Spotify Song"
+  />
+</a>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
