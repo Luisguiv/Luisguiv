@@ -34,4 +34,6 @@
 
 </details>
 
+---
+
 [linkedin]: https://linkedin.com/in/luisvosgerau
