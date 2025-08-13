@@ -35,7 +35,7 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://Luisguiv.pythonanywhere.com?theme=dark&scan=true"
     />
-    <img alt="Current Spotify Song">
+    <img alt="Current Spotify Song" style="border: 1px solid white; border-radius: 8px;">
   </picture>
 </a>
 
