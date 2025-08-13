@@ -27,11 +27,16 @@
 
 ---
 
-<a href="https://Luisguiv.pythonanywhere.com/link">
-  <img
-    src="https://Luisguiv.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
+<h3>🎶 Vibing to</h3>
+
+<a href="https://github.com/Luisguiv/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://Luisguiv.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+  </picture>
 </a>
 
 <details>
