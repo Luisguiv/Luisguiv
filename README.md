@@ -33,9 +33,9 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://Luisguiv.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+      srcset="https://Luisguiv.pythonanywhere.com?theme=dark&scan=true"
     />
-    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+    <img alt="Current Spotify Song">
   </picture>
 </a>
 
