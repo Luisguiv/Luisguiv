@@ -29,15 +29,17 @@
 
 <h3>Vibing to</h3>
 
-<a href="https://github.com/Luisguiv/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://Luisguiv.pythonanywhere.com?theme=dark&scan=true"
-    />
-    <img alt="Current Spotify Song" style="border: 1px solid white; border-radius: 8px;">
-  </picture>
-</a>
+<div style="display: inline-block; border: 2px solid white; border-radius: 8px; overflow: hidden;">
+  <a href="https://github.com/Luisguiv/Spotify-Readme">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://Luisguiv.pythonanywhere.com?theme=dark&scan=true"
+      />
+      <img alt="Current Spotify Song">
+    </picture>
+  </a>
+</div>
 
 <h3>GitHub Stats</h3>
 
