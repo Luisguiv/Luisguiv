@@ -27,9 +27,9 @@
 
 ---
 
-<a href="https://spotify-readme-luisguivs-projects.vercel.app/link">
+<a href="https://Luisguiv.pythonanywhere.com/link">
   <img
-    src="https://spotify-readme-luisguivs-projects.vercel.app"
+    src="https://Luisguiv.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
