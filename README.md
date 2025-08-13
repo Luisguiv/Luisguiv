@@ -42,7 +42,7 @@
 <h3>GitHub Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisguiv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisguiv&show_icons=true&title_color=fff&icon_color=1dcc5c&text_color=9f9f9f&bg_color=161b22&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisguiv&layout=compact&langs_count=8&card_width=320" />
