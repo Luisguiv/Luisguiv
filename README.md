@@ -1,12 +1,12 @@
-# Hi there, I'm Luis 👋 
+# Hi there, I'm Luis 👋
 
 ## I'm Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Ship more!!
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- I’m currently learning everything
+- I’m looking to collaborate with other content creators
+- 2025 Goals: Ship more!!
+- Fun fact: I love to draw and play guitar / drums
 
 ### Languages and Tools:
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h3>🎶 Vibing to</h3>
+<h3>Vibing to</h3>
 
 <a href="https://github.com/Luisguiv/Spotify-Readme">
   <picture>
@@ -39,6 +39,11 @@
   </picture>
 </a>
 
-<h3> GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 
-<img align="left" alt="Luisguiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luisguiv&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisguiv" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisguiv&layout=compact&langs_count=8&card_width=320" />
+</a>
