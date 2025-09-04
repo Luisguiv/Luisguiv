@@ -1,12 +1,8 @@
 # Hi there, I'm Luis 👋
 
-## I'm Developer!!
+## I'm a Developer!!
 
-- Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- I’m currently learning everything
-- I’m looking to collaborate with other content creators
-- 2025 Goals: Ship more!!
-- Fun fact: I love to draw and play guitar / drums
+<!--- I’m currently learning everything-->
 
 ### Languages and Tools:
 
